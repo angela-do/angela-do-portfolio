@@ -46,6 +46,7 @@
 (1/1) Deploy the website so that it is live on the Internet.
 (1/1) Have all my projects listed from my UCI career.
 (1/1) Provide a GitHub repository.
+	- https://github.com/angela-do/angela-do-portfolio
 
 # Bonus
 (1/1) Used APIs to import animations and icons.
