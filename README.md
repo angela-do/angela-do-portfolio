@@ -6,6 +6,8 @@
 (2) I then created my project by running the following:
 	npx create-react-app {PROJECT_NAME}
 	In this case, the project name is 'angela-do-portfolio'
+(3) To run, cd into angela-do-portfolio, and type the following:
+	npm start
 
 # Navigating Through File Structure
 - In the 'public' folder, I linked a couple different stylesheets.
