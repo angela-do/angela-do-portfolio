@@ -46,6 +46,7 @@
 	- Reason for omitting: Same as above.
 (1/1) Display my resume and allow employers to download my resume.
 (1/1) Deploy the website so that it is live on the Internet.
+	- https://angela-do-portfolio.herokuapp.com/
 (1/1) Have all my projects listed from my UCI career.
 (1/1) Provide a GitHub repository.
 	- https://github.com/angela-do/angela-do-portfolio
