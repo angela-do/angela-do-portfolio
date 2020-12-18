@@ -1,0 +1,40 @@
+.aboutDiv {
+	background-color: #333533;
+	padding:1.5rem;
+	color: #e8eddf;
+	left: 0;
+	right: 0;
+	position:relative;
+}
+
+.aboutDiv h1 {
+	color: #f5cb5c;
+	font-family: 'Vollkorn', serif;
+	font-size: calc(36px + (36 - 14) * ((100vw - 300px) / (1600 - 300)));
+	color:#f5cb5c;
+
+}
+
+.aboutDiv p {
+	font-family:'Rubik', sans-serif;
+	font-size: calc(18px + (18 - 14) * ((100vw - 300px) / (1600 - 300)));
+	margin-left:auto;
+	margin-right:auto;
+	width:75%;
+}
+
+.aboutDiv a {
+	color:#f5cb5c;
+	font-family: 'Vollkorn', serif;
+	font-size: calc(18px + (18 - 14) * ((100vw - 300px) / (1600 - 300)));
+	text-decoration: none;
+	text-shadow: 2px 2px #242423;
+}
+
+.aboutDiv a:hover {
+	color:#333533;
+	font-family: 'Vollkorn', serif;
+	font-size: calc(18px + (18 - 14) * ((100vw - 300px) / (1600 - 300)));
+	text-decoration: underline;
+	text-shadow: 2px 2px #f5cb5c;
+}
